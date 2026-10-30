@@ -42,6 +42,9 @@ Creating shopping lists
 Providing news and information
 Setting timers
 # WORKING PRINCIPLE 
+
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/d3054d68-9178-4c73-971e-78774e2d0a03" />
+
 The working of an AI-powered smart speaker can be represented as:
 
 **User Voice → Microphone → Audio Processing → Wake Word Detection → Speech Recognition → NLP/NLU → AI/ML Processing → Action/Response → Text-to-Speech → Speaker**
